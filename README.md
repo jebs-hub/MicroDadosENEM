@@ -53,4 +53,4 @@ In addition, there are cases in which, due to disasters and other problems on th
 
 I published [spreadsheets](https://drive.google.com/drive/folders/1yVT-PJZ7oHBNL1bGHtw22vdQh4r-DzYS?usp=sharing) with more interesting graphics and results from the point of view of people who are preparing for the test. The access to them is free.
 
-I also published a [video](https://www.youtube.com/watch?v=gUJe4yOGFLM) showing the analysis. It is not a tutorial for code development! But it explains what was done, how the data works, shows the final data being explored and shows how to use the spreadsheet.
+I also published a video (currently offline for technical reasons) showing the analysis. It is not a tutorial for code development! But it explains what was done, how the data works, shows the final data being explored and shows how to use the spreadsheet.
